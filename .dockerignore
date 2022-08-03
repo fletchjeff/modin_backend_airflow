@@ -1,0 +1,7 @@
+astro
+.git
+.env
+airflow_settings.yaml
+logs/
+2009.csv
+penv/
